@@ -3,10 +3,22 @@
 ## Student Information
 
 - **Student Name:** Samrudhi Barhate
-- **PRN:** ______125UAD1223____________
+- **PRN:** ___125UAD1223_______________
 - **Class / Division:** _____SY , E_____________
-- **Course Name:** Artificial Intelligence and Data science
+- **Course Name:** Object Oriented Programming with C++
+- **Course Code:** ADPC303
 - **Programming Language:** C++
+
+---
+
+## Course Overview
+
+| Unit | Program 1 | Program 2 | Program 3 | Mini Project |
+|---|---|---|---|---|
+| **Unit 1 – Fundamentals of Object Oriented Programming** | Smart Agriculture Sensor Monitor | Student Attendance Tracker | E-Commerce Product Catalog | **Smart Home Device Manager** |
+| **Unit 2 – Inheritance** | Employee Payroll System | Payment Gateway | Vehicle Fleet Management | **Banking System with Account Hierarchy** |
+| **Unit 3 – Polymorphism** | CAD Shape Drawing System | Complex Number Calculator | Input Validation Service | **Media Player with Polymorphic Controls** |
+| **Unit 4 – Files and Streams** | Student Record File System | Log Analyzer | Binary File for Fixed-Size Records | **Library Book Management System** |
 
 ---
 
