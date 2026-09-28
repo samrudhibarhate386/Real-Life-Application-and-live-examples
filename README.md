@@ -5,8 +5,7 @@
 - **Student Name:** Samrudhi Barhate
 - **PRN:** ___125UAD1223_______________
 - **Class / Division:** _____SY , E_____________
-- **Course Name:** Object Oriented Programming with C++
-- **Course Code:** ADPC303
+- **Course Name:** Artificial Intelligence and Data science
 - **Programming Language:** C++
 
 ---
